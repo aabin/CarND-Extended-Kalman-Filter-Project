@@ -1,6 +1,6 @@
 # Extended Kalman Filter Project Starter Code
 Self-Driving Car Engineer Nanodegree Program
-![result](result.png)
+![result](result.PNG)
 I use a Kalman filter, lidar measurements and radar measurements to track the bicycle's position and velocity.
 
 To see the picture, we will find some symbols. They have their means.
